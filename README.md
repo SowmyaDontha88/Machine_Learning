@@ -25,10 +25,11 @@ This folder contains projects that use unsupervised learning algorithms, such as
 # Neural Networks: 
 This folder contains projects that use feedforward neural networks, convolutional neural networks (CNNs), and artificial neural networks (ANNs) to perform classification, regression, and image recognition tasks.
 
-Data Preprocessing: This folder contains projects that focus on data preprocessing techniques, such as data cleaning, feature selection, and feature scaling, which are essential for preparing data for machine learning algorithms.
+# Data Preprocessing: 
+This folder contains projects that focus on data preprocessing techniques, such as data cleaning, feature selection, and feature scaling, which are essential for preparing data for machine learning algorithms.
 
-Contributing
+# Contributing
 I welcome contributions to this repository! If you would like to contribute, feel free to fork this repository and create a pull request. If you have any questions or suggestions, please feel free to open an issue.
 
-Contact
+# Contact
 If you have any questions or just want to connect, you can reach me at sowmyadontha2000@gmail.com . I am always interested in discussing machine learning and data science.
